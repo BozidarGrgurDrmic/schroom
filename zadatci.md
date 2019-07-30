@@ -1,7 +1,7 @@
-# Zadatci
+## Zadatci
 
-# Ivan Vnučec
-## Rok: 5.8.2019.
+## Ivan Vnučec
+### Rok: 5.8.2019.
 - [x] Otvori GitHub direktorij
 - [ ] Pogledati tutorial za Git (GitHub): [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - Preporuca se da se prate postupci (kao npr. otvaranje svojeg direktorija, pushanje i slicno) prikazani u tutorijalu kao svojevrsna vjezba.
@@ -14,8 +14,8 @@
  - Otvoriti zaseban fajl u kojem ce biti definirani svi senzori
 - [ ] Osmisliti dizajn lampe
 
-# Božidar Grgur Drmić
-## Rok: 5.8.2019.
+## Božidar Grgur Drmić
+### Rok: 5.8.2019.
 - [ ] Pogledati tutorial za Git (GitHub): [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - Preporuca se da se prate postupci (kao npr. otvaranje svojeg direktorija, pushanje i slicno) prikazani u tutorijalu kao svojevrsna vjezba.
  - Nakon odgledanog tutorijala potrebno je sebi staviti kvacicu kao oznaku da je zadatak gotov. Sluziti se metodama prikazanima u video tutorijalu i [ovdje](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings)
@@ -24,8 +24,8 @@
  - Pokazati najpopularnije Bluetooth module i to javiti Ivanu Vnučecu
  - Pozeljno je da se stavi link na najpovoljniju opciju na ebayu, aliexpresu i sl. za svaki taj BT modul
  
-# Kvirin Polondak
-## Rok: 5.8.2019.
+## Kvirin Polondak
+### Rok: 5.8.2019.
 - [ ] Pogledati tutorial za Git (GitHub): [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
  - Preporuca se da se prate postupci (kao npr. otvaranje svojeg direktorija, pushanje i slicno) prikazani u tutorijalu kao svojevrsna vjezba.
  - Nakon odgledanog tutorijala potrebno je sebi staviti kvacicu kao oznaku da je zadatak gotov. Sluziti se metodama prikazanima u video tutorijalu i [ovdje](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings)
