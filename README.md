@@ -3,9 +3,7 @@
 ## Ivan Vnučec
 ### Rok: 5.8.2019.
 - [x] Otvori GitHub direktorij
-- [ ] Pogledati tutorial za Git (GitHub): [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
- - Preporuca se da se prate postupci (kao npr. otvaranje svojeg direktorija, pushanje i slicno) prikazani u tutorijalu kao svojevrsna vjezba.
- - Nakon odgledanog tutorijala potrebno je sebi staviti kvacicu kao oznaku da je zadatak gotov. Sluziti se metodama prikazanima u video tutorijalu i [ovdje](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings)
+- [x] Pogledati tutorial za Git (GitHub)
 - [ ] Izračun moguce dobivene i potrosene energije lampe
  - Ovisno o tome odabrati bateriju
 - [ ] Pogledati asistente kao moguce mentore za projekt
