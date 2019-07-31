@@ -4,7 +4,7 @@
 ### Rok: 5.8.2019.
 - [x] Otvori GitHub direktorij
 - [x] Pogledati tutorial za Git (GitHub)
-- [ ] Izračun moguce dobivene i potrosene energije lampe
+- [x] Izračun moguce dobivene i potrosene energije lampe
  - Ovisno o tome odabrati bateriju
 - [ ] Pogledati asistente kao moguce mentore za projekt
 - [ ] Definirati vrste senzora
