@@ -32,3 +32,4 @@
 - [ ] Kontaktirati moguce mentore i objasniti im situaciju
 - [ ] Pogledati kako naruciti plocicu (vec slozenu) sa PCBWay-a.
  - Problemi kao sto su: koliko im treba, koliko para itd. su pozeljni da ih znamo
+ - Kako oni nabavljaju komponente? Tipa kaj ak se desi da ja izaberem mikrokontroler kojeg oni nemaju?
